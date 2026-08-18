@@ -1,0 +1,10 @@
+{
+  "name": "SmartStock",
+  "description": "SmartStock - Controle Inteligente de Estoque por InvenTech. Aplicativo mobile-first com scanner QR Code, IA e previsão estatística de reposição.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
